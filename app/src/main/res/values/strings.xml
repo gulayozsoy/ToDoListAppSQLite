@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoListAppSQLite</string>
+    <string name="end_date">End Date</string>
+</resources>
